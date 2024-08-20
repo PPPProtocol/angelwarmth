@@ -291,7 +291,7 @@ function createSection() {
                 ${createCheckbox('toggleDateCheckbox', 'Show Current Date', 'When new date arrives, it will update within a minute.')}
                 ${createCheckbox('togglePressedKeysCheckbox', 'Show Pressed Keys', 'RMB - right mouse button, LMB - left mouse button, MMB - middle mouse button.')}
                 ${createCheckbox('toggleMousePos', 'Show Mouse Position', 'Reload page after enabling/disabling to apply the changes.')}
-                ${createCheckbox('toggleUkkoTheme', '⋆｡‧₊°♱༺𓆩❦𓆪༻♱༉‧₊˚.', "My theme. If you want to try it, and make everything work correctly, you must to turn off Account Below and Your Theme before enabling it (after that you can enable Account Below.)")}
+                ${createCheckbox('toggleUkkoTheme', '⋆｡‧₊°♱༺𓆩❦𓆪༻♱༉‧₊˚.', "Theme what I use. If you want to try it, and make everything work correctly, you must to turn off Account Below, ikeveron wanted button and Your Theme before enabling it (after that you can enable Account Below.)")}
             </div>
         </div>
     `;
