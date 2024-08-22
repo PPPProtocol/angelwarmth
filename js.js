@@ -1285,19 +1285,19 @@ function applyStyle(styleId) {
             background: repeating-linear-gradient(-45deg,#00000030,#00000030 25px,#ffffff30 0,#ffffff30 50px)
             }
 .btn[data-v-73f7fbfc] {
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, .5);
 }
 
 .btn[data-v-73f7fbfc]:hover {
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, .5);
 }
 
 .btn[data-v-73f7fbfc]:active {
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, .5);
 }
 
 .btn[data-v-73f7fbfc]:disabled {
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, .5);
 }
 .perk-color-update[data-v-2c5139e0] {
     background: rgba(0,0,0,.5);
