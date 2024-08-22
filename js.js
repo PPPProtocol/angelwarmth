@@ -1284,6 +1284,21 @@ function applyStyle(styleId) {
             .progress-striped .progress-bar[data-v-5f2d6d72] {
             background: repeating-linear-gradient(-45deg,#00000030,#00000030 25px,#ffffff30 0,#ffffff30 50px)
             }
+.perk-color-update[data-v-2c5139e0] {
+    background: rgba(0,0,0,.5);
+}
+
+.perk-color-update[data-v-2c5139e0]:hover {
+    background: rgba(0,0,0,.5);
+}
+
+.perk-color-update[data-v-2c5139e0]:active {
+    background: rgba(0,0,0,.5);
+}
+
+.perk-color-update[data-v-2c5139e0]:disabled {
+    background: rgba(0,0,0,.5);
+}
 .server-button[data-v-67f43bc8] {
     background: rgba(0,0,0,.5);
 }
