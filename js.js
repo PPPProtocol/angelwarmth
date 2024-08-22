@@ -348,7 +348,7 @@ input[type=number],input[type=text],select {    background: rgb(0 0 0 / 0%);    
 .account-name[data-v-520f1371] {    display: flex;    flex-direction: row;    font-size: 28px;    font-weight: 700;    overflow: hidden;    text-overflow: ellipsis;    white-space: nowrap;    width: 168px;}
 .player-info[data-v-520f1371] {    display: inline-block;    font-size: 14px;    color: #fff0;    display: inline-block;    vertical-align: top}
 .player-info[data-v-520f1371]:hover{        transition: all .2s cubic-bezier(0.4, 0, 1, 1);            background: #ffffff00;            color: #ffffff;        text-shadow: 0 0 8px #fff0;}
-.avatar[data-v-520f1371] {        border-radius: 0px;        box-shadow: 0 0 8px 1px #fff0;        margin-right: 8px;        width: 80px}
+.avatar[data-v-890f31b4] {    border-radius: 0px;    box-shadow: 0 0 3px 1px #fff0;}
 ::-webkit-scrollbar {width: 0px}
 .tab-menu .tabs[data-v-2eade0fe] {    border-bottom: 2px solid #fff0;    display: flex;    font-size: 18px}
 .tab-menu .tab[data-v-2eade0fe]:not(:last-child) {border-right: 2px solid #ffffff00}
