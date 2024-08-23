@@ -361,6 +361,7 @@ input[type=number],input[type=text],select {    background: rgb(0 0 0 / 0%);    
 .perks-tab-badge.using[data-v-2eade0fe]:hover {    transition: .4s cubic-bezier(0.4, 0, 1, 1);     background-color: #ffffff;    box-shadow: 0 0 4px 2px #f0f0f0;}
 .perks-tab-badge.unused[data-v-2eade0fe]:hover {    transition: .4s cubic-bezier(0.4, 0, 1, 1);     background-color: #909090;    box-shadow: 0 0 4px 2px #909090;}
 .warning[data-v-2c5130o9e0] {    color: #ffffff}
+.zxc3 {    background: #b1700f00;    border: 0;    border-radius: 4px;    box-shadow: 0 0 1px 1px #0000;    color: #dadada00;    cursor: pointer;    font-size: 16px;    outline: none;    padding: 5px 9px;    text-shadow: 1px 1px 2px #0000;     margin-left: 0px;    margin-top: 0px;}
 .section[data-v-2c5139e0] {    border: 2px solid #fff0;    border-radius: 0px;    overflow: hidden}
 .section>.header[data-v-2c5139e0] {    background: rgb(255 255 255 / 0%);    border-bottom: 2px solid #fff0;    padding: 7px}
 .section[data-v-c41b640a] {    border: 2px solid #fff0;    border-radius: 0px;    overflow: hidden}
