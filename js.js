@@ -1406,9 +1406,16 @@ function applyStyle(styleId) {
 .pretty.p-switch input:checked~.state label:after {
     background-color: #bdc3c7!important
 }
-.slider[data-v-c41b640a]::-webkit-slider-thumb {
+.slider[data-v-3c8af59b]::-webkit-slider-thumb {
     background: #bdc3c7;
 }
+
+
+
+.slider[data-v-3c8af59b] {
+    border: 1px solid #bdc3c7;
+}
+
         `;
     document.head.appendChild(style);
 }
