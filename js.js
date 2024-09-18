@@ -400,6 +400,8 @@ input[type=number]:disabled,input[type=text]:disabled,select:disabled {    color
 .tab-menu .tab:not(:last-child) {    border-right: 2px solid #fff0}
 .tab-menu .tab.active {    background: rgb(255 255 255 / 0%)}
 .pretty.p-switch .state:before {    background: #ffffff00}
+.section[data-v-3c8af59b] {    border: 2px solid #00000000;    border-radius: 8px;    overflow: hidden}
+.section>.header[data-v-3c8af59b] {    background: rgb(0 0 0 / 0%);    border-bottom: 2px solid #00000000;    padding: 7px}
 .tab-menu .tabs {    border-bottom: 2px solid #fff0;    display: flex;    font-size: 18px}
 ::-webkit-scrollbar-thumb {    background-color: #ffffff29;    border-radius: 10px;    box-shadow: 0 0 0px rgb(255 255 255 / 30%);}
 ::-webkit-scrollbar-track {    background: rgb(255 255 255 / 0%)}
