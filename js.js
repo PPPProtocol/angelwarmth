@@ -338,6 +338,7 @@ input[type=number],input[type=text],select {    background: rgb(0 0 0 / 0%);    
 .confidential:focus,.confidential:hover {    color: #ffffffb5!important;    text-shadow: none}
 #nickname[data-v-5190ae12] {flex: 2;margin-right: 10px;    color: transparent!important;        text-shadow: 0 0 5px hsl(0deg 0% 85% / 0%);        transition: all .8s}
 #nickname[data-v-5190ae12]:focus,#nickname[data-v-5190ae12]:hover {        color: #ffffffb5!important;        text-shadow: none}
+.slider.draw-delay[data-v-3c8af59b] {    background: linear-gradient(45deg, #121212, #121212 35%);}
 .tabs[data-v-5190ae12] {border-bottom: 2px solid #fff0;font-size: 20px}
 .tab[data-v-5190ae12]:not(:last-child) {border-right: 2px solid #fff0}
 .tab[data-v-5190ae12] {    cursor: pointer;    color: #fff0;    flex: 1;    padding: 9px;    text-align: center;    width: 55px}
