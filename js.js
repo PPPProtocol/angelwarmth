@@ -378,6 +378,9 @@ input[type=number]:disabled,input[type=text]:disabled,select:disabled {    color
 .button-row>.button:active,.button-row>.button:disabled {background: #ffffff00;    color: #fff0;    text-shadow: 0 0 12px #fff0;}
 .button-row>.button:disabled {    background: #ffffff00;    color: #fff;    text-shadow: 0 0 12px #fff0;}
 .button-row {    border-bottom: 2px solid #fff0;    display: flex;    justify-content: space-between;    padding: 7px 6px 6px}
+.slider[data-v-3c8af59b]::-webkit-slider-thumb {    -webkit-appearance: none;    appearance: none;    background: #ffffff;    border-radius: 60px;    cursor: pointer;    height: 15px;    width: 15px}
+.slider[data-v-3c8af59b] {    -webkit-appearance: none;    background: #ffffff00;    border: 1px solid #ffffff;    border-radius: 60px;    box-sizing: border-box;    display: block;    outline: none;    padding: 1px;    transition: none;    width: 100%}
+
 .swal2-styled.swal2-confirm {    background: initial;    background-color: #ffffff00;    border: 0;    border-radius: 0;    color: #fff;    font-size: 15px}
 .swal2-styled.swal2-cancel {    background: initial;    background-color: rgb(255 255 255 / 0%);    border: 0;    border-radius: 0;    color: #fff;    font-size: 15px}
 .swal2-actions:not(.swal2-loading) .swal2-styled:hover {    background: #fff0;    text-shadow: 0 0 7px #fff;    transition: .4s cubic-bezier(0.4, 0, 1, 1);}
