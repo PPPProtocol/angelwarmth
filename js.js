@@ -1416,7 +1416,9 @@ function applyStyle(styleId) {
 .slider[data-v-3c8af59b]::-webkit-slider-thumb {
     background: #bdc3c7;
 }
-
+.slider[data-v-c41b640a]::-webkit-slider-thumb {
+    background: #bdc3c7;
+}
 
 
 .slider[data-v-3c8af59b] {
