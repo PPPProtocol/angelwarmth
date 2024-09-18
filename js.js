@@ -397,6 +397,7 @@ input[type=number]:disabled,input[type=text]:disabled,select:disabled {    color
 .reset-option[data-v-c41b640a] {    color: white;    cursor: pointer;    display: inline-flex;    justify-content: center}
 .reset-option[data-v-4dcda2ec] {    color: white;    cursor: pointer;    display: inline-flex;    justify-content: center}
 .reset-option[data-v-4dcda2ec] {    color: white;    cursor: pointer;    display: inline-flex;    justify-content: center}
+.reset-option[data-v-3c8af59b] {    color: #ffffff;}
 .tab-menu .tab:not(:last-child) {    border-right: 2px solid #fff0}
 .tab-menu .tab.active {    background: rgb(255 255 255 / 0%)}
 .pretty.p-switch .state:before {    background: #ffffff00}
