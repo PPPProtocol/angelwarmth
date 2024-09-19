@@ -1432,7 +1432,7 @@ input[type=number][data-v-2c5139e0] {    background: rgb(0 0 0 / 0%);    border:
 .fade-box, .replay-list-header, .swal2-popup, .tooltip {    background: #ffffff00; !important;}
 .section[data-v-8dbe5024] {    border: 2px solid #0000;    border-radius: 8px;    overflow: hidden}
 .section>.header[data-v-8dbe5024] {    background: rgb(0 0 0 / 0%);    border-bottom: 2px solid #0000;    padding: 7px}
-.cautions {text-shadow: 0 0 10px #151718;}
+.cautions {text-shadow: 0 0 4px #151718;}
     `;
 
     const existingStyles = document.querySelectorAll('style[id^="ukko-theme-"]');
