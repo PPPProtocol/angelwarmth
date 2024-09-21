@@ -65,7 +65,7 @@ const styles = `
     border-radius: 4px;
     box-shadow: 0 0 1px 1px #000000;
     color: #dadada00;
-    cursor: auto;
+    cursor: pointer;
     margin-top: 5px;
     font-size: 16px;
     outline: none;
