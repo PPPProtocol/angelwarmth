@@ -820,7 +820,9 @@ function applyStyle(styleId) {
 .slider[data-v-3c8af59b] {
     border: 1px solid #bdc3c7;
 }
-
+.warning[data-v-2c5139e0] {
+    color: #dadada
+}
         `;
     document.head.appendChild(style);
 }
