@@ -1436,6 +1436,7 @@ input[type=number][data-v-2c5139e0] {    background: rgb(0 0 0 / 0%);    border:
 .section[data-v-8dbe5024] {    border: 2px solid #0000;    border-radius: 8px;    overflow: hidden}
 .section>.header[data-v-8dbe5024] {    background: rgb(0 0 0 / 0%);    border-bottom: 2px solid #0000;    padding: 7px}
 .cautions {text-shadow: 0 0 4px #151718;}
+.slider.draw-delay[data-v-3c8af59b] {    background: linear-gradient(45deg,rgb(255 0 0 / 0%),#12121200 35%) !important}
     `;
 
     const existingStyles = document.querySelectorAll('style[id^="ukko-theme-"]');
