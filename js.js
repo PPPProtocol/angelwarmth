@@ -58,14 +58,15 @@ const styles = `
 .settings-column-2 {
     margin-left: 0px;
 }
-.zxc7{
-    background: #ffaaaa00;
+.zxc7 {
+    background: #b1700f;
     border: 0;
     text-align: left;
     border-radius: 4px;
-    box-shadow: 0 0 1px 1px #00000000;
+    box-shadow: 0 0 1px 1px #000000;
     color: #dadada00;
     cursor: auto;
+    margin-top: 5px;
     font-size: 16px;
     outline: none;
     width: auto;
@@ -812,7 +813,9 @@ function applyStyle(styleId) {
 .slider[data-v-c41b640a]::-webkit-slider-thumb {
     background: #bdc3c7;
 }
-
+.zxc7 {
+    background: rgba(0, 0, 0, .5);
+}
 
 .slider[data-v-3c8af59b] {
     border: 1px solid #bdc3c7;
