@@ -1346,8 +1346,8 @@ input[type=number]:disabled,input[type=text]:disabled,select:disabled {    color
 .server-list-item[data-v-752a3ab7]:hover::before {    content: '';    position: absolute;    top: 0;    left: -100%;    width: 100%;    height: 100%;        background: repeating-linear-gradient(0deg,#ffffff08,#ffffff08, #ffffff08); animation: slide-left .72s forwards;}
 @keyframes slide-left {    100% {      left: 100%;}}
 .server-list-item.active[data-v-752a3ab7],.server-list-item.active[data-v-752a3ab7]:hover {    background: #ffffff00;    color: #fff;    text-shadow: 0px 0px 7px #fff;}
-#hotkey-container .row[data-v-14acee54]:not(:last-child) {    border-bottom: 2px solid #fff0}
-#hotkey-container .footer[data-v-14acee54] {    border-top: 2px solid #fff0;    color: white;    display: flex;    justify-content: center;    padding: 10px}
+#hotkey-container .row[data-v-bcefdc68]:not(:last-child) {    border-bottom: 2px solid #fff0}
+#hotkey-container .footer[data-v-bcefdc68] {    border-top: 2px solid #fff0;    color: white;    display: flex;    justify-content: center;    padding: 10px}
 .reset-option[data-v-c41b640a] {    color: white;    cursor: pointer;    display: inline-flex;    justify-content: center}
 .reset-option[data-v-4dcda2ec] {    color: white;    cursor: pointer;    display: inline-flex;    justify-content: center}
 .reset-option[data-v-4dcda2ec] {    color: white;    cursor: pointer;    display: inline-flex;    justify-content: center}
